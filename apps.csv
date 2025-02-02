@@ -52,12 +52,10 @@ tools,the_silver_searcher,Code searching tool similar to Ack but faster
 tools,system-config-printer,A CUPS printer configuration tool and status applet
 tools,sysstat,a collection of performance monitoring tools
 tools,sshfs,FUSE client based on the SSH File Transfer Protocol
-tools,solaar,Linux device manager for a wide range of Logitech devices
 tools,shntool,A multi-purpose WAVE data processing and reporting utility
 tools,rustup,The Rust toolchain installer
 tools,rofi,A window switcher application launcher and dmenu replacement
 tools,reflector,A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
-tools,pandoc-cli,Conversion between documentation formats
 tools,os-prober,Utility to detect other OSes on a set of drives
 tools,ntfs-3g,NTFS filesystem driver and utilities
 tools,navi,An interactive cheatsheet tool for the command-line
@@ -100,7 +98,6 @@ tmux,tmuxp,Configure tmux session + windows + panes via config files
 notifier,dunst,Notification system
 notifier,libnotify,Notifier
 file_mngr,ranger,Simple vim-like file manager
-file_mngr,nnn,The fastest terminal file manager ever written.
 file_mngr,ncdu,Disk usage analyzer with an ncurses interface
 git,git,Version control system
 git,diff-so-fancy,Human readable git diff
