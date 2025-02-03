@@ -26,7 +26,6 @@ network,arp-scan,A tool that uses ARP to discover and fingerprint IP hosts on th
 network,warpinator,LAN file sender send and receive files across the network
 tools,rsync,Synchronizing files across computers
 tools,arandr,xrandr GUI
-tools,i3-autodisplay,i3wm display auto-configuration for multiple monitors
 tools,autorandr,Auto-detect connected display hardware and load appropiate X11 setup using xrandr
 tools,aria2,Download utility that supports HTTP(S) FTP BitTorrent and Metalink
 tools,xsel,Manipulate the X selection
